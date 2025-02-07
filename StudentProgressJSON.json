@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Vinayak Soni",
+      "email": "vinayak@gmail.com",
+      "progress": {
+        "total_courses": 5,
+        "completed_courses": 2,
+        "in_progress_courses": 3,
+        "course_details": [
+          {
+            "course_id": 101,
+            "course_name": "React Native Basics",
+            "progress_percentage": 75,
+            "completed_lessons": 15,
+            "total_lessons": 20
+          },
+          {
+            "course_id": 102,
+            "course_name": "Redux Saga in Depth",
+            "progress_percentage": 50,
+            "completed_lessons": 10,
+            "total_lessons": 20
+          },
+          {
+            "course_id": 103,
+            "course_name": "Advance React Native Topics",
+            "progress_percentage": 100,
+            "completed_lessons": 10,
+            "total_lessons": 10
+          },
+          {
+            "course_id": 104,
+            "course_name": "React Native The Complete Guide",
+            "progress_percentage": 100,
+            "completed_lessons": 20,
+            "total_lessons": 20
+          }
+        ]
+      }
+    }
+  ]
+}
