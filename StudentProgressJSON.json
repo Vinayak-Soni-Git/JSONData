@@ -8,6 +8,7 @@
         "total_courses": 5,
         "completed_courses": 2,
         "in_progress_courses": 3,
+        "duration_learned_today":56,
         "course_details": [
           {
             "course_id": 101,
